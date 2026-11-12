@@ -1,2 +1,2 @@
-# SampleCode
-Collection of code samples
+# Sample-Code
+Collection of snippets and excepts from a variety of projects.
